@@ -14,6 +14,8 @@
 | After Dark @ Kiggins Theatre | | 7:00 PM - 10:00 PM |
 
 ## Wednesday Schedule
+| Presenters | Topic | Time |
+|---|---|---|
 | iMake | The Future of the Grainfather | 9:15 AM - 10:15 AM |
 | Imperial Organic Yeast | Yeast -- And MORE! | 10:30 AM - 11:30 AM |
 | Briess Malt Co | Things to Look Forward to from Briess | 12:30 PM - 1:30 PM |
